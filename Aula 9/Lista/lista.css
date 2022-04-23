@@ -1,0 +1,43 @@
+body{
+    background-color: #0d0d0d;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#titulo{
+    color: #d95032;
+    font-size: 40px;
+    padding: 30px;
+}
+table, th, td {
+    border: 2px solid #0d0d0d;
+    margin: 0px 200px 0px 200px;
+}
+th {
+    height: 90px;
+    color: #0d0d0d;
+    background-color: #d95032;
+}
+.tabela{
+    border-collapse: collapse;
+    font-size: 20px;
+    width: 70%;
+    text-align: center;
+    border: 3px solid;
+}
+tr, td {
+    border-bottom: 3px solid #0d0d0d;
+    background-color: #f1f1f1;
+    padding: 7px 10px;
+
+}
+input[type="submit"]{
+    background-color: #d95032;
+    color: #FFF;
+    border: none;
+    border-radius: 30px;
+    height: 50px;
+    width:15%;
+    cursor: pointer;
+    margin: 20px 0px ;
+    margin-left: 200px;
+    font-size: 18px;
+}
